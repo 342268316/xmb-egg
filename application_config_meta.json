@@ -1,0 +1,303 @@
+{
+  "keys": "G:\\代码\\项目部项目\\bxx-egg\\config\\config.default.js",
+  "middleware": "G:\\代码\\项目部项目\\bxx-egg\\config\\config.default.js",
+  "view": {
+    "defaultViewEngine": "G:\\代码\\项目部项目\\bxx-egg\\config\\config.default.js",
+    "root": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "printdate": {
+    "aaa": "G:\\代码\\项目部项目\\bxx-egg\\config\\config.default.js"
+  },
+  "forbidip": {
+    "forbidips": "G:\\代码\\项目部项目\\bxx-egg\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "cache": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
+  },
+  "env": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "name": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "version": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "description": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "private": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "webstorm-disable-index": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "stop": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "dev": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "debug": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "test": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "cov": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "lint": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "ci": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "autod": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "url": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "license": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "strict": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "depth": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "env": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "level": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "logging": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "port": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "G:\\代码\\项目部项目\\bxx-egg\\node_modules\\egg\\config\\config.default.js"
+}
